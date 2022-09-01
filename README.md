@@ -2,7 +2,6 @@
 
 An Instagram Clone using Laravel
 
-![alt text](https://github.com/Arshil139/instagramClone/blob/master/screenshot.png)
 
 ## Getting started
 1. Clone project `git clone https://github.com/Arshil139/instagramClone.gitL`
